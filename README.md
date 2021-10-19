@@ -34,3 +34,6 @@ https://golangcode.com/
 
 Tutorial GO + Ethereum:
 https://github.com/miguelmota/ethereum-development-with-go-book
+
+Tutorial Go em portugues:
+https://larien.gitbook.io/aprenda-go-com-testes/

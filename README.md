@@ -14,3 +14,13 @@ https://www.miek.nl/go/
 
 exercicios Go:
 https://github.com/inancgumus/learngo
+
+documentação oficial:
+https://golang.org/doc/#articles
+
+Go patterns:
+https://github.com/tmrts/go-patterns
+
+
+Tutorial do inicio ao avançado:
+https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/

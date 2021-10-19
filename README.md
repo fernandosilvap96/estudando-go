@@ -11,3 +11,6 @@ https://github.com/avelino/awesome-go
 
 Introdução a linguagem Go:
 https://www.miek.nl/go/
+
+exercicios Go:
+https://github.com/inancgumus/learngo

@@ -37,3 +37,7 @@ https://github.com/miguelmota/ethereum-development-with-go-book
 
 Tutorial Go em portugues:
 https://larien.gitbook.io/aprenda-go-com-testes/
+
+
+Biblioteca standard do GO - Funções de strings:
+https://pkg.go.dev/strings#pkg-index
